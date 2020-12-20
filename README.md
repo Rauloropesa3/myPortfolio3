@@ -2,7 +2,7 @@
 
 ## Description
 
-A Quick update of my portfolio tracking my progress in the world of developement.
+My portfolio with links to my github and linkedin
 
 ## Table of Contents
 
@@ -12,7 +12,7 @@ Contact
 
 ### About Me
 
-Tells the viewer a little bit about me that he/she might not of known.
+Tells the viewer a little bit about me that he/she might not of known. And gives the viewer links so he can track my work and keep up with me.
 
 ### My Portfolio page
 
