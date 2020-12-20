@@ -106,7 +106,7 @@ body{
       height: 200px;
       width: 100%;
     }
-  
+
   
     .monkey {
       width: 100%;
@@ -116,7 +116,7 @@ body{
     .card-img-top {
       height: 100%;
       width: 100%;
-      position: absolute;
+      position: relative;
     }
   
   
@@ -187,12 +187,11 @@ body{
       width: 100%;
       transform: translate(0px);
     }
-  
-    .card-img-top {
+   .card-img-top {
       height: 100%;
       width: 100%;
       position: absolute;
-    }
+    } 
   
    
     footer {
