@@ -1,0 +1,484 @@
+body{
+    background-size: cover;
+  }
+  
+  .navbar-brand{
+    padding: 5px;
+    border-style: solid;
+    border-color: goldenrod;
+    border-radius: 5px;
+    text-shadow: goldenrod -6px 7px 2px;
+    margin-left: 75px;
+    font-size: 25px;
+  }
+  
+  .nav-link{
+    padding: 8px;
+    border-style: solid;
+    border-color: goldenrod;
+    border-radius: 5px ;
+    text-shadow: goldenrod -6px 7px 2px;
+    font-size: 20px;
+  }
+  
+  .portfolio {
+    margin-left: 0px;
+    font-family: serif;
+    font-weight: 900;
+    font-size: 40px;
+    color: powderblue;
+    width: 1300px;
+    height: 800px;
+  }
+  
+  .header{
+   text-shadow: goldenrod -8px 7px 3px;
+  }
+  
+  .copywrite{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    color: powderblue;
+    text-shadow: goldenrod -16px 12px 4px;
+  
+  }
+   .footer{
+     border-style: solid;
+     border-color: goldenrod;
+   }
+  
+  
+  @media screen and (max-width: 1600px) {
+    .navbar-expand-lg {
+      width: 100%;
+      padding: 0;
+    }
+  
+    #navbar-brand {
+      width: 30%;
+      margin-left: 30px;
+      padding: 10px;
+      font-size: 30px;
+      text-align: center;
+    }
+  
+    .navbar-nav {
+      text-align: right;
+      display: inline-block;
+      width: 50%;
+      margin-right: 20px;
+      padding: 0px;
+      font-size: 12px;
+      font-weight: 600;
+    }
+  
+    ul li {
+      display: inline-block;
+      padding: 1.5%;
+    }
+  
+    .section {
+      padding-top: 10px;
+      padding-right: 220px;
+      padding-bottom: 10px;
+      height: 100%;
+      width: 100%;
+    }
+  
+    .portfolio {
+      padding: 15px;
+      margin-left: 0px;
+      font-family: serif;
+      font-weight: 900;
+      font-size: 40px;
+      color: powderblue;
+      width: 1300px;
+      height: 800px;
+    }
+  
+    .card{
+      border-style: solid;
+      border-width: 3px;
+      border-left-width: 10px;
+      border-right-width: 10px;
+      border-color: goldenrod;
+      height: 200px;
+      width: 100%;
+    }
+  
+  
+    .monkey {
+      width: 100%;
+      transform: translate(0px);
+    }
+  
+    .card-img-top {
+      height: 100%;
+      width: 100%;
+      position: absolute;
+    }
+  
+  
+    footer {
+      padding: 7px;
+      text-align: center;
+    }
+  }
+  
+  @media screen and (max-width: 1350px) {
+    .navbar-expand-lg {
+      width: 100%;
+      padding: 0;
+    }
+  
+    #navbar-brand {
+      width: 30%;
+      margin-left: 30px;
+      padding: 10px;
+      font-size: 30px;
+      text-align: center;
+    }
+  
+    .navbar-nav {
+      text-align: right;
+      display: inline-block;
+      width: 50%;
+      margin-right: 20px;
+      padding: 0px;
+      font-size: 12px;
+      font-weight: 600;
+    }
+  
+    ul li {
+      display: inline-block;
+      padding: 1.5%;
+    }
+  
+    .section {
+      padding: 20px;
+      height: 100%;
+      width: 100%;
+    }
+  
+    .portfolio {
+      font-family: serif;
+      font-weight: 900;
+      font-size: 40px;
+      color: powderblue;
+      padding: 20px;
+      margin: 10px;
+      width: 75%;
+      height: 800px;
+    }
+  
+    .card{
+      border-style: solid;
+      border-width: 3px;
+      border-left-width: 10px;
+      border-right-width: 10px;
+      border-color: goldenrod;
+      height: 200px;
+      width: 100%;
+    }
+  
+  
+    .monkey {
+      width: 100%;
+      transform: translate(0px);
+    }
+  
+    .card-img-top {
+      height: 100%;
+      width: 100%;
+      position: absolute;
+    }
+  
+   
+    footer {
+      padding: 7px;
+      text-align: center;
+    }
+  }
+  
+  @media screen and (max-width: 1200px) {
+    .navbar-expand-lg {
+      width: 100%;
+      padding: 0;
+    }
+  
+    #navbar-brand {
+      width: 30%;
+      margin-left: 30px;
+      padding: 10px;
+      font-size: 30px;
+      text-align: center;
+    }
+  
+    .navbar-nav {
+      text-align: right;
+      display: inline-block;
+      width: 50%;
+      margin-right: 20px;
+      padding: 0px;
+      font-size: 12px;
+      font-weight: 600;
+    }
+  
+    ul li {
+      display: inline-block;
+      padding: 1.5%;
+    }
+  
+    .section {
+      padding: 20px;
+      height: 100%;
+      width: 100%;
+    }
+  
+    .portfolio {
+      font-family: serif;
+      font-weight: 900;
+      font-size: 40px;
+      color: powderblue;
+      padding: 20px;
+      margin: 10px;
+      width: 75%;
+      height: 800px;
+    }
+    .card{
+      border-style: solid;
+      border-width: 3px;
+      border-left-width: 10px;
+      border-right-width: 10px;
+      border-color: goldenrod;
+      height: 200px;
+      width: 100%;
+    }
+  
+    .monkey {
+      width: 100%;
+      transform: translate(0px);
+    }
+  
+    #passGen{
+      height: 250px;
+    }
+    .card-img-top {
+      height: 100%;
+      width: 100%;
+      position: absolute;
+    }
+  
+    footer {
+  
+      padding: 7px;
+      text-align: center;
+    }
+  }
+  
+  @media screen and (max-width: 980px) {
+    .navbar-expand-lg {
+      width: 100%;
+      padding: 0;
+    }
+  
+    #navbar-brand {
+      width: 30%;
+      margin-left: 30px;
+      padding: 10px;
+      font-size: 30px;
+      text-align: center;
+    }
+  
+    .navbar-nav {
+      text-align: right;
+      display: inline-block;
+      width: 50%;
+      margin-right: 20px;
+      padding: 0px;
+      font-size: 12px;
+      font-weight: 600;
+    }
+  
+    ul li {
+      display: inline-block;
+      padding: 1.5%;
+    }
+  
+    .section {
+      padding: 20px;
+      height: 100%;
+      width: 100%;
+    }
+  
+    .portfolio {
+      font-family: serif;
+      font-weight: 900;
+      font-size: 40px;
+      color: powderblue;
+      padding: 20px;
+      margin: 10px;
+      width: 75%;
+      height: 800px;
+    }
+  
+    .card{
+      border-style: solid;
+      border-width: 3px;
+      border-left-width: 10px;
+      border-right-width: 10px;
+      border-color: goldenrod;
+      height: 200px;
+      width: 100%;
+    }
+  
+  
+    .monkey {
+      width: 100%;
+      transform: translate(0px);
+    }
+  
+    .card-img-top {
+      height: 100%;
+      width: 100%;
+      position: absolute;
+    }
+  
+    
+    footer {
+      padding: 7px;
+      text-align: center;
+    }
+  }
+  
+  @media screen and (max-width: 768px) {
+    .navbar-expand-lg {
+      width: 100%;
+      padding: 0;
+    }
+  
+    #navbar-brand {
+      width: 30%;
+      margin-left: 30px;
+      padding: 10px;
+      font-size: 30px;
+      text-align: center;
+    }
+  
+    .navbar-nav {
+      text-align: right;
+      display: inline-block;
+      width: 50%;
+      margin-right: 20px;
+      padding: 0px;
+      font-size: 12px;
+      font-weight: 600;
+    }
+  
+    ul li {
+      display: inline-block;
+      padding: 1.5%;
+    }
+  
+    .section {
+      padding: 20px;
+      height: 1300px;
+      width: 100%;
+    }
+  
+    .portfolio {
+      font-family: serif;
+      font-weight: 900;
+      font-size: 40px;
+      color: powderblue;
+      padding: 20px;
+      margin: 10px;
+      width: 75%;
+      height: 1250px;
+    }
+  
+    .card{
+      border-style: solid;
+      border-width: 3px;
+      border-left-width: 10px;
+      border-right-width: 10px;
+      border-color: goldenrod;
+      height: 200px;
+      width: 100%;
+    }
+  
+  
+    .monkey {
+      width: 100%;
+      transform: translate(0px);
+    }
+  
+    .card-img-top {
+      height: 100%;
+      width: 100%;
+      position: absolute;
+    }
+  
+  
+  }
+  
+  @media screen and (max-width: 640px) {
+    .navbar-expand-lg {
+      width: 100%;
+      padding: 0;
+    }
+  
+    #navbar-brand {
+      width: 30%;
+      margin-left: 30px;
+      padding: 10px;
+      font-size: 30px;
+      text-align: center;
+    }
+  
+    .navbar-nav {
+      text-align: right;
+      display: inline-block;
+      width: 50%;
+      margin-right: 20px;
+      padding: 0px;
+      font-size: 12px;
+      font-weight: 600;
+    }
+  
+    ul li {
+      display: inline-block;
+      padding: 1.5%;
+    }
+    .section {
+      width: 100%;
+    }
+    .portfolio {
+      font-family: serif;
+      font-weight: 900;
+      font-size: 40px;
+      color: powderblue;
+      padding: 20px;
+      margin: 20px;
+      width: 85%;
+      height: 1230px;
+      margin-right: 20px;
+    }
+  
+    .card {
+      height: 200px;
+      width: 100%;
+    }
+    .monkey {
+      margin: 0px;
+      width: 92%;
+      transform: translateX(0px);
+    }
+  
+    .card-img-top {
+      height: 100%;
+      width: 100%;
+      position: absolute;
+    }
+  }
