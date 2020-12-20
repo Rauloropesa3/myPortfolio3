@@ -39,6 +39,11 @@ body{
     font-weight: bolder;
   }
 
+  .myResume{
+    font-weight: bolder;
+    margin-left: 10px;
+  }  
+
   .linkedIn{
     margin-left: 10px;
     font-weight: bolder;
