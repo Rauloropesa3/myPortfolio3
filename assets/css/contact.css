@@ -26,6 +26,19 @@ body{
     font-size: 20px;
   }
 
+  .github{
+    font-weight: bolder;
+  }
+
+  .linkedIn{
+    font-weight: bolder;
+    margin-left: 10px;
+  }
+
+  .myResume{
+    font-weight: bolder;
+    margin-left: 10px;
+  }
   .header{
      font-size: 40px;
            text-shadow: orange -12px 8px 3px;
