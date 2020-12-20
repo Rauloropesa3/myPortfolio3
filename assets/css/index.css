@@ -20,6 +20,15 @@ body{
     text-shadow: goldenrod -6px 7px 2px;
     font-size: 20px;
   }
+
+  .github{
+    font-weight: bolder;
+  }
+
+  .linkedIn{
+    margin-left: 10px;
+    font-weight: bolder;
+  }
   
   .card-text{
     text-align: center;
@@ -29,7 +38,7 @@ body{
   }
   
   img.myImg{
-    object-position: right;
+    object-position: bottom;
   }
   
   .copywrite{
